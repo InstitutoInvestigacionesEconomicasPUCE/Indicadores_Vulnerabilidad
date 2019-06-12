@@ -1,5 +1,7 @@
 # Proyecto de Investigación
 
+## Indicadores de Vulnerabilidad
+
 Bajo la dinámica de capitalismo subdesarrollado, además de una marcada 
 concentración  en ciudades como Quito, Guayaquil y Cuenca, la población 
 del Ecuador se ubica principalmente a lo largo de las principales vías 
@@ -68,12 +70,11 @@ identificar sectores en riesgo.
 
 **Palabras Clave:** Modelo Gravitacional, Modelo Termodinámico, Indicadores regionales, Indicadores compuestos, Modelos de Riesgo.
 
-
-## 1. Análisis de Regresion
+### Capturas de Pantalla APP
 
 <img src="Capture1.PNG" alt="PUCE" style="width:600px"> 
 
-## 2. Análisis Clúster
+
 
 <img src="Capture2.PNG" alt="PUCE" style="width:600px"> 
 
